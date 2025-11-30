@@ -25,3 +25,9 @@ npm-debug.log*
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Project docs (local only)
+CLAUDE.md
+TODO.md
+CHANGELOG.md
+PRD.md
